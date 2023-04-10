@@ -8,7 +8,7 @@ export default function Document() {
         <Main />
         <NextScript />
         <script
-          src="https://apis.google.com/js/platform.js"
+          src="https://accounts.google.com/gsi/client"
           async
           defer
         ></script>
